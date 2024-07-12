@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c3c5006-e540-43b6-8c64-5e66364bca8e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops_Concept.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2ivE8m1Gic8SrFbVhc1gAKnApBa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ATMProject.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Encapsulation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HierarchicalInheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interface.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Object.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SuperKeyword.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SuperKeyword2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SuperKeyword3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.abstraction.executor&quot;: &quot;Run&quot;,
+    &quot;Application.abstraction2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.accessPrivateMembers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.attribueandmethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.constructor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.encapsulation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mInterface.executor&quot;: &quot;Run&quot;,
+    &quot;Application.method.executor&quot;: &quot;Run&quot;,
+    &quot;Application.methodOverloading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.methodOverriding.executor&quot;: &quot;Run&quot;,
+    &quot;Application.methodoverloading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.multilevelInheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.multipleInheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.overriding.executor&quot;: &quot;Run&quot;,
+    &quot;Application.overriding2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.singleInheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.staticNotOverriden.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/bhumika verma/IdeaProjects/untitled3/src/Main.java&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.ATMProject">
+    <configuration name="ATMProject" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ATMProject.ATMProject" />
+      <module name="Oops_Concept" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ATMProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="multipleInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multipleInheritance" />
+      <module name="Oops_Concept" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.multipleInheritance" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c3c5006-e540-43b6-8c64-5e66364bca8e" name="Changes" comment="" />
+      <created>1720362494332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720362494332</updated>
+    </task>
+    <servers />
+  </component>
+</project>
